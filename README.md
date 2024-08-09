@@ -1,4 +1,4 @@
-# Investment_Analysis
+# Investment_Analysis (internship project)
 The objective was to analyze and visualize key aspects of investment choices, preferences, and trends, with a particular focus on gender-based differences.
 
 Task 1: Data Exploration and Summary:
